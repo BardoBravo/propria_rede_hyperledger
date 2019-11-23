@@ -7,7 +7,7 @@
 ```
 curl -O https://storage.googleapis.com/golang/go1.13.4.linux-amd64.tar.gz
 
-tar -xvf go1.12.9.linux-amd64.tar.gz
+tar -xvf go1.13.4.linux-amd64.tar.gz
 
 sudo chown -R root:root ./go
 
